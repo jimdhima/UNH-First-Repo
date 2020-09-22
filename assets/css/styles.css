@@ -1,0 +1,19 @@
+h1 {
+  color: teal;
+  border-width: 1px;
+  border-color: red;
+  border-style: dotted;
+}
+
+h2 {
+  color: green;
+}
+
+.fontSizeLarge {
+  font-size: 36px;
+}
+
+.colorGreen {
+  color: green;
+  font-size: 12px;
+}
